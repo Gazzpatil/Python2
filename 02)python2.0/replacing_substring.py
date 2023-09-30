@@ -1,0 +1,5 @@
+string=input("enter the string:")
+srr1=input("enter the substring which has to be replaced:")
+strr2=input("enter the substring which strr1 has to be replaced:")
+string =string.replace(srr1,strr2)
+print(string)
